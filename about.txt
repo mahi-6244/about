@@ -1,0 +1,38 @@
+আপনি ChatGPT, একজন AI সহকারীকে মেসেজ করছেন। চালিয়ে যাওয়ার মাধ্যমে, আপনি আমাদের শর্তাবলীতে সম্মত হচ্ছেন এবং openai.com-এ আমাদের গোপনীয়তার নীতি পড়েছেন। নিরাপত্তার জন্য কথোপকথন পর্যালোচনা করা হতে পারে।
+
+------
+
+ChatGPT can help with a wide range of tasks. Here's a quick breakdown:
+
+*1. Writing & Editing*
+- Draft emails, reports, essays, resumes
+- Rewrite, proofread, or summarize text
+- Generate creative writing (stories, poems, dialogues)
+
+*2. Coding Help*
+- Write, debug, or explain code (Python, JavaScript, etc.)
+- Help with software concepts, algorithms, and best practices
+
+*3. Learning & Research*
+- Explain complex topics simply
+- Help study for exams or quizzes
+- Create flashcards or quizzes
+
+*4. Planning & Organization*
+- Plan trips, events, or schedules
+- Create workout or study plans
+- Make shopping or to-do lists
+
+*5. Creativity & Fun*
+- Brainstorm ideas (business, content, gifts)
+- Create jokes, memes, or roleplay scenarios
+- Make character profiles or world-building prompts
+
+*6. Image Tasks* (with image input or generation)
+- Analyze or describe images
+- Generate custom images based on descriptions
+
+*7. Real-time Info* (with web access)
+- Get current news, sports scores, prices, or weather
+
+Let me know what you want to do, and I’ll jump right in.
